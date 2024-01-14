@@ -1,1 +1,1 @@
-![Alt text](./cover.jpg "GO Transit Cover")
+![Alt text](/profile/cover.jpg "GO Transit Cover")
